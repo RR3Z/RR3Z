@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I am Egor Chernobaev 👋</h1>
 
-<h5 align="center">
+<h4 align="center">
   🌐 Web Developer (Frontend + Backend) 🌐
-</h5>
+</h4>
 
 <p align="center">
   I’m interested in backend and frontend development (mainly on JavaScript), modern web technologies, API design, and building practical fullstack applications.
