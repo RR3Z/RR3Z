@@ -19,6 +19,6 @@
 <h3 align="center">Statistics</h3>
 
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RR3Z&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="200em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=RR3Z&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="200em" src="https://github-readme-stats-fast.vercel.app/api?username=RR3Z&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="200em"src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RR3Z&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
