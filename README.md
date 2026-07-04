@@ -40,13 +40,12 @@
 </p>
 
 <h3 align="center">Projects</h3>
-
 <table>
   <tr>
     <td width="50%">
       <h4><a href="https://github.com/RR3Z/Miskatonic_Lab_frontend">Miskatonic Lab Frontend</a></h4>
       <p>Next.js + React + TypeScript frontend for a tabletop RPG web app.</p>
-      <p><b>Stack:</b> Next.js, React, TypeScript, Tailwind CSS, TanStack Query, Ky, Zustand, Biome, Vitest, Playwright.</p>
+      <p><b>Stack:</b> Next.js, React, TypeScript, Tailwind CSS, Motion, TanStack Query, Ky, Zustand, Biome, Vitest, Playwright.</p>
     </td>
     <td width="50%">
       <h4><a href="https://github.com/RR3Z/Miskatonic_Lab_backend">Miskatonic Lab Backend</a></h4>
