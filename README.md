@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Egor Chernobaev</h1>
 
 <h4 align="center">
-  Fullstack Developer | TypeScript, Go, React, Next.js, NestJS
+  Fullstack Developer | TypeScript, Go, React
 </h4>
 
 <p align="center">
